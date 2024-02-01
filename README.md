@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## 👨‍🏫 Currently
 - I teach computer science at ITIS Delpozzo in Cuneo, also qualified to teach mathematics and physics. Specializing in the "Computer Science - Smart Robot" track.
 - I'm engaged in didactic methodologies for coding and the use of new technologies in teaching computer science.
-- I collaborate with the italian publisher Zanichelli :blue_book:.
+- I collaborate with the italian publisher Zanichelli :closed_book:.
 - I teach ChatGPT prompt engineering courses for teachers, [like this one in italian](https://github.com/profConradi/conferences-lectures/blob/1cd0a1ae8ed50e1de5ec46bf34be86ccf8b0da92/Slide_lab_Conradi.pdf).
 
 ## 🔭 I’m currently working on:
