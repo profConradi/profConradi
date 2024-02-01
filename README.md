@@ -42,9 +42,22 @@ Here are some ideas to get you started:
 - Various mathematical topics.
 
 ## 📚 Publications
-- Author of "Artificial Intelligence", published by Zanichelli, a guide for those approaching the AI world with curiosity and a desire to learn.
+- **Artificial Intelligence**, published by Zanichelli, a guide for those approaching the AI world with curiosity and a desire to learn.
 
 <img src="/IA_Zanichelli.jpg" width="200"/>
+
+- **Eigenvalues experiments**, Boletín del IMI, Nº 104 (11 octubre 2023), Sección "1+400. Divulgación con 1 imagen y 400 palabras." [https://doi.org/10.57037/b-imi.00104.1mas400](https://doi.org/10.57037/b-imi.00104.1mas400)
+
+- **HOMO SAPIENS E COMPUTER**, Rivista del Movimento di Cooperazione Educativa 3/2022.
+
+- **Imaginary chemical potentials and the phase of the fermionic determinant**, Simone Conradi and Massimo D’Elia, Phys. Rev. D 76, 074501 - 2007 [https://doi.org/10.1103/PhysRevD.76.074501](https://doi.org/10.1103/PhysRevD.76.074501).
+
+- **Confining properties of QCD at finite temperature and density**, Simone Conradi, Alessio D’Alessandro, and Massimo D’Elia,
+Phys. Rev. D 76, 054504 – 2007 - [https://doi.org/10.1103/PhysRevD.76.054504](https://doi.org/10.1103/PhysRevD.76.054504).
+
+- **Confining properties of 2-color QCD at finite density**, S. Conradi, A. D'Alessandro, M. D'Elia, PoS LAT2006:131 - 2006.
+
+
 
 ## 🔍 Interests
 - :heart: Physics
