@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## 🔭 I’m currently working on:
 - STEM education: I am dedicated to the field of STEM, with a particular focus on introducing the use of Python to solve mathematics and physics problems in high school. My goal is to empower students by providing them with the tools and knowledge to apply computational methods to traditional scientific disciplines, fostering a deeper understanding and innovation in these areas.
 - Use of Large Language Models in education.
-- Math visualizations like this [one](https://mathematical-oncology.org/art/276/). Please see my [X (Tweeter) profile](https://twitter.com/S_Conradi).
+- Math visualizations like this [one](https://mathematical-oncology.org/art/276/) or the one in [this calendar](https://github.com/Computational-Discovery-on-Jupyter/Computational-Discovery-on-Jupyter/blob/315888817240504d7f79e744a1cf8210c18a435c/CalendarImageDescriptions.pdf) (June). Please see my [X (Tweeter) profile](https://twitter.com/S_Conradi).
 - Agent Based Models.
 - Fractals.
   
