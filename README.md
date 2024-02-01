@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ## 👨‍🏫 Currently
 - Teaching computer science at ITIS Delpozzo in Cuneo, also qualified to teach mathematics and physics. Specializing in the "Computer Science - Smart Robot" track.
 - Engaged in didactic methodologies for coding and the use of new technologies in teaching computer science.
+- I teach ChatGPT prompt engineering courses for teachers, [like this one in italian](https://github.com/profConradi/conferences-lectures/blob/1cd0a1ae8ed50e1de5ec46bf34be86ccf8b0da92/Slide_lab_Conradi.pdf).
 
 ## 🔭 I’m currently working on:
 - STEM education: I am dedicated to the field of STEM, with a particular focus on introducing the use of Python to solve mathematics and physics problems in high school. My goal is to empower students by providing them with the tools and knowledge to apply computational methods to traditional scientific disciplines, fostering a deeper understanding and innovation in these areas.
