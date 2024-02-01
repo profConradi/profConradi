@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 - :heart: Physics
 - 🧮 Mathematics
 - 🤖 Artificial Intelligence
-- 📈 Machine Learning
+- :nut_and_bolt: Machine Learning
 - :chart_with_upwards_trend: Data Science
 - :computer: Simulations
 - 💻 Educational Computing
