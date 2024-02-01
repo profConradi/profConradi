@@ -29,8 +29,22 @@ Here are some ideas to get you started:
 - Teaching computer science at ITIS Delpozzo in Cuneo, also qualified to teach mathematics and physics. Specializing in the "Computer Science - Smart Robot" track.
 - Engaged in didactic methodologies for coding and the use of new technologies in teaching computer science.
 
+## 🔭 I’m currently working on:
+- STEM education: I am dedicated to the field of STEM, with a particular focus on introducing the use of Python to solve mathematics and physics problems in high school. My goal is to empower students by providing them with the tools and knowledge to apply computational methods to traditional scientific disciplines, fostering a deeper understanding and innovation in these areas.
+- Math visualizations like this [one](https://mathematical-oncology.org/art/276/). Please see my [X (Tweeter) profile](https://twitter.com/S_Conradi).
+- Agent Based Models.
+- Fractals.
+  
+## 🌱 I’m currently trying to learn:
+- Something about Computational Social Science.
+- Physics of Complex Systems.
+- New Python framework such [Apple mlX](https://github.com/ml-explore).
+- Various mathematical topics.
+
 ## 📚 Publications
 - Author of "Artificial Intelligence", published by Zanichelli, a guide for those approaching the AI world with curiosity and a desire to learn.
+
+<img src="/IA_Zanichelli.jpg" width="200"/>
 
 ## 🔍 Interests
 - :heart: Physics
@@ -51,5 +65,3 @@ I'm always open to collaborating on projects that push the boundaries of science
 - LinkedIn: [https://www.linkedin.com/in/simone-conradi-ph-d-8b0aa935/](https://www.linkedin.com/in/simone-conradi-ph-d-8b0aa935/)
 - Tweeter: [https://twitter.com/S_Conradi](https://twitter.com/S_Conradi)
 - Email: [Your email](mailto:conradi.simone@gmail.com.com)
-
-
