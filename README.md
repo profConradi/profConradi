@@ -73,6 +73,22 @@ Phys. Rev. D 76, 054504 – 2007 - [https://doi.org/10.1103/PhysRevD.76.054504](
 ## 💬 Looking to Collaborate
 I'm always open to collaborating on projects that push the boundaries of science and education. If you have an idea or a project you think might interest me, don't hesitate to reach out!
 
+## :mortar_board: Seminars and conferences I have conducted
+- [_"Corso di IA e machine learning per docenti della scuola secondaria"_, ITIS Delpozzo, Cuneo, 2018](https://github.com/profConradi/IA_tutorial)
+- [_"Mindgames: interfaccia cervello-computer applicata al gaming"_, Presentazione allo stand Senato/MIUR in occasione del Salone Internazionale del Libro di Torino, 2019](https://github.com/profConradi/SaloneLibroTorino_2019/blob/0abc3de1383de3a1d9c93222bc24b42ba629e52f/presentazione.pdf)
+- [_"Corso Robotica educativa: Tinkering e elettronica educativa"_, nell'ambito del progetto CORO, Cuneo, 2020](https://github.com/profConradi/Corso_Microbit)
+- _"Cervelli a Scuola di Game Design"_, Settimana del Cervello 2020
+- _"Coding su BBC micro:bit"_, presso Dipartimento di Filosofia e Scienze dell'Educazione, Corso di laurea in Scienze dell'Educazione, Università di Torino, 2021
+- _"Data Driven IFS - Analisi di serie temporali mediante sistemi di funzioni iterate"_ seminario per Brain s.r.l., 2022
+- _"INTELLIGENZA ARTIFICIALE Perché parlarne a scuola?"_, webinar per Zanichelli formazione, 2022
+- _"Self Organizing Maps or Kohonen neural networks"_ seminario per Brain s.r.l., 2023
+- [_"PER UNA SCUOLA CHE EDUCA ALL'INNOVAZIONE DIGITALE: FORMARE ALLA RELAZIONE CRITICA CON LE NUOVE TECNOLOGIE E CON L'INTELLIGENZA ARTIFICIALE"_, SCHOOL4THINKING&JUDGING - II Edition, Università di Torino, 2023](https://github.com/profConradi/conferences-lectures/blob/3d15648099d2c186b5dd917f8a67e86c398ad36f/SCHOOL4THINKING%26JUDGING%20-%20II%20Edition_Insegnare_IA_a_scuola.pdf)
+- ["_Insegnare a porre le domande giuste_", La Casa degli Insegnanti, Pinerolo, 16 Settembre 2023](https://github.com/profConradi/conferences-lectures/blob/3d15648099d2c186b5dd917f8a67e86c398ad36f/Insegnare_a_porre_le_domande_giuste_IA_a_scuola.pdf)
+- ["_ChatGPT entra in classe ma non passa dalla porta_", La Casa degli Insegnanti, Pinerolo, 16 Settembre 2023](https://github.com/profConradi/conferences-lectures/blob/1cd0a1ae8ed50e1de5ec46bf34be86ccf8b0da92/Slide_lab_Conradi.pdf)
+- _"ChatGPT nell'educazione"_, presso Dipartimento di Filosofia e Scienze dell'Educazione, Corso di laurea in Scienze dell'Educazione, Università di Torino, Ottobre 2023
+- ["_L’IA entra a scuola ma non passa dalla porta_", organizzato da MCE e DSchola, Torino, 27 Ottobre 2023](https://www.associazionedschola.it/blog/2023/11/02/i-materiali-del-convegno-sullia-e-la-scuola/)
+- Replica de "_ChatGPT entra in classe ma non passa dalla porta_", La Casa degli Insegnanti, Torino, 25 Novembre 2023
+
 ## 📫 How to Reach Me
 - GitHub: @profConradi
 - LinkedIn: [https://www.linkedin.com/in/simone-conradi-ph-d-8b0aa935/](https://www.linkedin.com/in/simone-conradi-ph-d-8b0aa935/)
