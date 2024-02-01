@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ## 🔍 Interests
 - :heart: Physics
 - 🧮 Mathematics
-- 🤖 Artificial Intelligence
+- 🤖 Artificial Intelligence in Education
 - :nut_and_bolt: Machine Learning
 - :chart_with_upwards_trend: Data Science
 - :computer: Simulations
