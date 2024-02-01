@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - Fractals.
   
 ## 🌱 I’m currently trying to learn:
+*(Life is too short not to always be learning something.)*
 - Computational Social Science.
 - Physics of Complex Systems.
 - New Python framework such [Apple mlX](https://github.com/ml-explore).
