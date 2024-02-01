@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 - **Imaginary chemical potentials and the phase of the fermionic determinant**, Simone Conradi and Massimo D’Elia, Phys. Rev. D 76, 074501 - 2007 [https://doi.org/10.1103/PhysRevD.76.074501](https://doi.org/10.1103/PhysRevD.76.074501).
 
-- **Analytic continuation of the phase of the fermionic determinant**S Conradi, M D'Elia - PoS, 2007 - [https://pos.sissa.it/042/176/pdf](https://pos.sissa.it/042/176/pdf)
+- **Analytic continuation of the phase of the fermionic determinant** S. Conradi, M. D'Elia - PoS, 2007 - [https://pos.sissa.it/042/176/pdf](https://pos.sissa.it/042/176/pdf)
 
 - **Confining properties of QCD at finite temperature and density**, Simone Conradi, Alessio D’Alessandro, and Massimo D’Elia,
 Phys. Rev. D 76, 054504 – 2007 - [https://doi.org/10.1103/PhysRevD.76.054504](https://doi.org/10.1103/PhysRevD.76.054504).
