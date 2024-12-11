@@ -50,6 +50,10 @@ Here are some ideas to get you started:
 - Various mathematical topics.
 
 ## 📚 Publications
+- **For high school students**: [Come può una macchina generare testo in linguaggio naturale?](https://ia.zanichelli.it/scoprire-intelligenza-artificiale/come-puo-una-macchina-generare-testo-in-linguaggio-naturale/)
+
+- **For high school students**: [L’intelligenza artificiale e la matematica](https://ia.zanichelli.it/scoprire-intelligenza-artificiale/l-intelligenza-artificiale-e-la-matematica/)
+
 - **Artificial Intelligence**, published by Zanichelli, a guide for those approaching the AI world with curiosity and a desire to learn.
 
 <img src="/IA_Zanichelli.jpg" width="200"/>
