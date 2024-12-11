@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 - I teach computer science at ITIS Delpozzo in Cuneo, also qualified to teach mathematics and physics. Specializing in the "Computer Science - Smart Robot" track.
 - I'm engaged in didactic methodologies for coding and the use of new technologies in teaching computer science.
 - I collaborate with the italian publisher Zanichelli :closed_book:.
-- I teach ChatGPT prompt engineering courses for teachers, [like this one in italian](https://github.com/profConradi/conferences-lectures/blob/1cd0a1ae8ed50e1de5ec46bf34be86ccf8b0da92/Slide_lab_Conradi.pdf).
+- I teach IA courses for teachers, [like this one in italian](https://github.com/profConradi/conferences-lectures/blob/1cd0a1ae8ed50e1de5ec46bf34be86ccf8b0da92/Slide_lab_Conradi.pdf).
+- I experiment with IA in school and school activities.
 
 ## 🔭 I’m currently working on:
 - STEM education: I am dedicated to the field of STEM, with a particular focus on introducing the use of Python to solve mathematics and physics problems in high school. My goal is to empower students by providing them with the tools and knowledge to apply computational methods to traditional scientific disciplines, fostering a deeper understanding and innovation in these areas.
@@ -35,6 +36,11 @@ Here are some ideas to get you started:
 - Math visualizations like this [one](https://mathematical-oncology.org/art/276/) or the one in [this calendar](https://github.com/Computational-Discovery-on-Jupyter/Computational-Discovery-on-Jupyter/blob/315888817240504d7f79e744a1cf8210c18a435c/CalendarImageDescriptions.pdf) (June). Please see my [X (Tweeter) profile](https://twitter.com/S_Conradi).
 - Agent Based Models.
 - Fractals.
+- Drawing math art usign Python.
+
+![creature106_1 - dimensioni medie](https://github.com/user-attachments/assets/377c9e78-4c77-4b92-bdae-8871a8429600)
+
+
   
 ## 🌱 I’m currently trying to learn:
 *(Life is too short not to always be learning something.)*
@@ -101,6 +107,6 @@ I'm always open to collaborating on projects that push the boundaries of science
 - GitHub: @profConradi
 - LinkedIn: [https://www.linkedin.com/in/simone-conradi-ph-d-8b0aa935/](https://www.linkedin.com/in/simone-conradi-ph-d-8b0aa935/)
 - X (Twitter): [https://twitter.com/S_Conradi](https://twitter.com/S_Conradi)
-- BlueSky: [[https://twitter.com/S_Conradi](https://twitter.com/S_Conradi)](https://bsky.app/profile/sconradi.bsky.social)
+- BlueSky: [https://bsky.app/profile/sconradi.bsky.social](https://bsky.app/profile/sconradi.bsky.social)
 - Email: [my email](mailto:conradi.simone@gmail.com.com)
 - Website: [https://profconradi.github.io](https://profconradi.github.io) 🏗️
