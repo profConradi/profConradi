@@ -91,11 +91,16 @@ I'm always open to collaborating on projects that push the boundaries of science
 - ["_ChatGPT entra in classe ma non passa dalla porta_", La Casa degli Insegnanti, Pinerolo, 16 Settembre 2023](https://github.com/profConradi/conferences-lectures/blob/1cd0a1ae8ed50e1de5ec46bf34be86ccf8b0da92/Slide_lab_Conradi.pdf)
 - _"ChatGPT nell'educazione"_, presso Dipartimento di Filosofia e Scienze dell'Educazione, Corso di laurea in Scienze dell'Educazione, Università di Torino, Ottobre 2023
 - ["_L’IA entra a scuola ma non passa dalla porta_", organizzato da MCE e DSchola, Torino, 27 Ottobre 2023](https://www.associazionedschola.it/blog/2023/11/02/i-materiali-del-convegno-sullia-e-la-scuola/)
-- Replica de "_ChatGPT entra in classe ma non passa dalla porta_", La Casa degli Insegnanti, Torino, 25 Novembre 2023
+- Replica de _"ChatGPT entra in classe ma non passa dalla porta"_, La Casa degli Insegnanti, Torino, 25 Novembre 2023
+- _"L’IA entra in classe, ma non passa dalla porta: strategie di gestione e inclusione. Un mini corso su ChatGPT"_ Giornata del Docente Scuole delle Figlie di Maria Ausiliatrice, Torino 2024.
+- INNOV@BUNIVA _"Spunti ed esperienze didattiche per una relazione critica con l'intelligenza artificiale"_ e workshop specifico sui -"Large Language Models nella didattica" (LLM)"_. Pinerolo, Settembre 2024.
+- Convegno CIRDA _"Insegnare l’Intelligenza Artificiale nella scuola primaria e secondaria: direzioni, sfide e possibilità”_ Università di Torino. _"IA in mani umane. Un curricolo interdisciplinare per la scuola secondaria di secondo grado"_, Torino Settembre 2024.
+- XXXVIII CONVEGNO NAZIONALE INCONTRI CON LA MATEMATICA _"Esperimenti di matematica in Python. Dai numeri naturali all'intelligenza artificiale"_, Castel S. Pietro Terme, Novembre 2024.
 
 ## 📫 How to Reach Me
 - GitHub: @profConradi
 - LinkedIn: [https://www.linkedin.com/in/simone-conradi-ph-d-8b0aa935/](https://www.linkedin.com/in/simone-conradi-ph-d-8b0aa935/)
 - X (Twitter): [https://twitter.com/S_Conradi](https://twitter.com/S_Conradi)
+- BlueSky: [[https://twitter.com/S_Conradi](https://twitter.com/S_Conradi)](https://bsky.app/profile/sconradi.bsky.social)
 - Email: [my email](mailto:conradi.simone@gmail.com.com)
-- Website: [https://profconradi.github.io](https://profconradi.github.io)
+- Website: [https://profconradi.github.io](https://profconradi.github.io) 🏗️
