@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - **Consulting:** Specialist in applying mathematical models and machine learning algorithms to finance.
 
 ## 👨‍🏫 Currently
-- I teach computer science at ITIS Delpozzo in Cuneo, also qualified to teach mathematics and physics. Specializing in the "Computer Science - Smart Robot" track.
+- I teach computer science at ITIS Delpozzo in Cuneo, also qualified to teach mathematics and physics. 
 - I'm engaged in didactic methodologies for coding and the use of new technologies in teaching computer science.
 - I collaborate with the italian publisher Zanichelli :closed_book:.
 - I teach IA courses for teachers, [like this one in italian](https://github.com/profConradi/conferences-lectures/blob/1cd0a1ae8ed50e1de5ec46bf34be86ccf8b0da92/Slide_lab_Conradi.pdf).
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - Math visualizations like this [one](https://mathematical-oncology.org/art/276/) or the one in [this calendar](https://github.com/Computational-Discovery-on-Jupyter/Computational-Discovery-on-Jupyter/blob/315888817240504d7f79e744a1cf8210c18a435c/CalendarImageDescriptions.pdf) (June). Please see my [X (Tweeter) profile](https://twitter.com/S_Conradi).
 - Agent Based Models.
 - Fractals.
-- Drawing math art usign Python.
+- Drawing math art usign Python like the following one.
 
 ![creature106_1 - dimensioni medie](https://github.com/user-attachments/assets/377c9e78-4c77-4b92-bdae-8871a8429600)
 
